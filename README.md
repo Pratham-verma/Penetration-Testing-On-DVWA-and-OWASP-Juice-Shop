@@ -1,4 +1,4 @@
-# Web Application Threat Report: DVWA & OWASP Juice Shop
+# 🛡️ Web Application Threat Report: DVWA & OWASP Juice Shop
 
 This repository contains a complete **security assessment and threat mapping report** for two intentionally vulnerable web applications:
 
